@@ -16,3 +16,4 @@ local.properties
 ./xyz
 ./.idea/gradle.xml
 .idea/misc.xml
+./badbrowser
